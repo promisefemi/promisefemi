@@ -1,6 +1,6 @@
 #  👋 Hi there, I'm Promise
 
-Hi, I'm a Backend Engineer, and I'm passionate about creating interesting solutions to solve real-word problems. My expertise lies in JavaScript, Golang and PHP.
+Hi, I'm a Backend Engineer, and I'm passionate about creating interesting solutions to solve real-word problems. My expertise lies in JavaScript, Golang and PHP. I Love the Go Programming Language
 
 
 ## 📖 Fun Facts
