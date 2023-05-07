@@ -1,12 +1,12 @@
-#  👋 Hi there, I'm Promise
+#  👋 Hello World, i'm Promise
 
-Hi, I'm a Backend Engineer, and I'm passionate about creating interesting solutions to solve real-word problems. My expertise lies in JavaScript, Golang and PHP. I Love the Go Programming Language
+I'm a Software Engineer based in Lagos, Nigeria. I'm passionate about creating interesting solutions to solve real-word problems. My expertise lies in JavaScript, Golang and PHP. I Love the Go Programming Language
 
 
 ## 📖 Fun Facts
 
 - Music and Movie lover
-- I love Anime movies. My current favorite Anime so far is [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/)
+- I love Anime movies. My favorite anime so far is [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/)
 - If I'm not coding or thinking about coding, you'll most likely find me playing mobile games or listening to Music. My favorite mobile game of all time is **Call of Duty(Mobile)** and i'm Big [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h?autoplay=true) fan.
  
  
