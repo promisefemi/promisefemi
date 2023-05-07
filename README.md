@@ -8,19 +8,8 @@ Hi, I'm a Backend Engineer, and I'm passionate about creating interesting soluti
 - Music and Movie lover
 - I love Anime movies. My current favorite Anime so far is [Jujutsu Kaisen](https://www.imdb.com/title/tt12343534/)
 - If I'm not coding or thinking about coding, you'll most likely find me playing mobile games or listening to Music. My favorite mobile game of all time is **Call of Duty(Mobile)** and i'm Big [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h?autoplay=true) fan.
-
-
-## ⌛ My Values
-
-- 😎 Expression as authentic self.
-- 📙 Beginner's mindset and curiosity
-- 🔭 Attention to detail and doing my best work on every project
-
-## 💼 How I Work
-
-I am a very dedicated, pasionate and detail-oriented individual, i give my all to every project to make sure i am doing my best work.
-
-
+ 
+ 
 ## 💻 My Current Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,go,php,css,docker,mongodb,mysql,postgres,linux,&theme=dark)](https://skillicons.dev)
